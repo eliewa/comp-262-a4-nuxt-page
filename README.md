@@ -1,42 +1,40 @@
-# Nuxt 3 Minimal Starter
+# Comp 262 - Assignment 4 Nuxt Page
+### Author: Eli Ewa
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## **Notes
 
-## Setup
+Please be aware that although I have technically 4 pages on this site, only the home page and "movies" are functional as per the assignment requirements. Later on I will fill the other pages with content from a public API.
 
-Make sure to install the dependencies:
+## Components
 
-```bash
-# yarn
-yarn install
+You can find all the components I created in the components folder which is in the root folder of my project, there are seven in total.
 
-# npm
-npm install
+AppCard.vue -> Card component
+AppSearch.vue -> Search bar component
+AppSection.vue -> Section component
+TheFooter -> Global footer component
+TheNav.vue -> Global nav component
+TheLovo.vue -> Site logo component
+TheHero.vue -> Hero section component
 
-# pnpm
-pnpm install --shamefully-hoist
-```
+## Attributions
 
-## Development Server
+Hero Image - https://www.pexels.com/photo/time-lapse-photography-of-car-lights-in-front-of-cinema-436413/
 
-Start the development server on http://localhost:3000
+Andor - https://www.imdb.com/title/tt9253284/mediaviewer/rm484051201/?ref_=tt_ov_i
 
-```bash
-npm run dev
-```
+Avatar - https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Avatar_%282009_film%29_poster.jpg/220px-Avatar_%282009_film%29_poster.jpg
 
-## Production
+Batman - https://www.imdb.com/title/tt1877830/mediaviewer/rm2474894849/?ref_=tt_ov_i
 
-Build the application for production:
+Dark-knight - https://www.imdb.com/title/tt0468569/mediaviewer/rm4023877632/?ref_=tt_ov_i
 
-```bash
-npm run build
-```
+Godfather - https://www.imdb.com/title/tt0068646/mediaviewer/rm746868224/?ref_=tt_ov_i
 
-Locally preview production build:
+Inception - https://www.imdb.com/title/tt1375666/mediaviewer/rm3426651392/?ref_=tt_ov_i
 
-```bash
-npm run preview
-```
+Pulp-fiction - https://www.imdb.com/title/tt0110912/mediaviewer/rm1959546112/?ref_=tt_ov_i
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Taxi - https://www.imdb.com/title/tt0075314/mediaviewer/rm3951714048/?ref_=tt_ov_i
+
+Titanic - https://www.imdb.com/title/tt0120338/mediaviewer/rm2647458304/?ref_=tt_ov_i

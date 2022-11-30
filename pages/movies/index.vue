@@ -2,7 +2,7 @@
   <div>
     <h1 class="text-4xl font-serif font-bold text-center pt-16 pb-5">Search Your Favourite Movies</h1>
     <div class="flex justify-center ">
-      <AppSearch item="Search for a movie..."/>
+      <AppSearch class="text-white font-bold" item="Search for a movie..."/>
     </div>
     
     <AppSection 
