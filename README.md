@@ -9,13 +9,13 @@ Please be aware that although I have technically 4 pages on this site, only the 
 
 You can find all the components I created in the components folder which is in the root folder of my project, there are seven in total.
 
-AppCard.vue -> Card component
-AppSearch.vue -> Search bar component
-AppSection.vue -> Section component
-TheFooter -> Global footer component
-TheNav.vue -> Global nav component
-TheLovo.vue -> Site logo component
-TheHero.vue -> Hero section component
+- AppCard.vue -> Card component
+- AppSearch.vue -> Search bar component
+- AppSection.vue -> Section component
+- TheFooter -> Global footer component
+- TheNav.vue -> Global nav component
+- TheLovo.vue -> Site logo component
+- TheHero.vue -> Hero section component
 
 ## Attributions
 
