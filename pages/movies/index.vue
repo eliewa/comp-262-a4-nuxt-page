@@ -24,6 +24,10 @@
 </template>
 
 <script setup>
+useHead({
+  title: 'Film Junkies | Movies'
+})
+
 const movies = [
   {
     id: 1,

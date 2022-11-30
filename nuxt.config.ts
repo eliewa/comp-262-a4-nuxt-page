@@ -7,9 +7,11 @@ export default defineNuxtConfig({
   ],
   app: {
     head: {
-      title: 'Film Junkies'
+      title: 'Film Junkies',
+      meta: [
+        { name: 'description', content: 'Movie Database'}
+      ],
     }
   }
-
 
 })
