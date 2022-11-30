@@ -3,7 +3,7 @@
 
 ## **Notes
 
-Please be aware that although I have technically 4 pages on this site, only the home page and "movies" are functional as per the assignment requirements. Later on I will fill the other pages with content from a public API.
+Please be aware that although I have technically 4 pages on this site, only the "home" and "movies" pages are functional as per the assignment requirements. Later on I will fill the other pages with content from a public API.
 
 ## Components
 
